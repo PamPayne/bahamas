@@ -6,7 +6,8 @@ source_file: QF High Level Analysis for Bahamas.docx
 source_url: https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Bahamas/2. Analysis/QF High Level Analysis for Bahamas.docx
 extracted_date: 2026-04-30
 jurisdiction: Bahamas
-description: This document records that the source DOCX could not be extracted because no binary data was available, so the regulatory content is unavailable in the extracted text.
+description: This document could not be extracted from the source file because no DOCX binary data was available at the time of extraction.
+regulatory_body: Unknown
 ---
 
 # QF High Level Analysis for Bahamas
