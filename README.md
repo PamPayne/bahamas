@@ -4,7 +4,10 @@ Markdown versions of regulatory documents for Bahamas, sourced from the DBNSA Re
 
 ## Documents
 
-*Document index will be updated once files are processed.*
+| Document | Source File |
+|---|---|
+| [QF High Level Analysis For Bahamas](QF_High_Level_Analysis_for_Bahamas.md) | QF High Level Analysis for Bahamas.docx |
+| [The Bahamas QuickFire BRD V0.4](The_Bahamas_QuickFire_BRD_v0.4.md) | The  Bahamas QuickFire BRD v0.4.docx |
 
 ## Source
 
